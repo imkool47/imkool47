@@ -31,7 +31,6 @@
 
 
 <h2 align="center">Languages and Tools <br> <br/></h2>
-</br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,5 +49,13 @@
   <img width=390  src="https://github-readme-stats.vercel.app/api?username=imkool47&show_icons=true&locale=en" alt="imkool47" style="vertical-align: top;" />
 <br>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imkool47&show_icons=true&locale=en&layout=compact" alt="imkool47" />
+<h1></h1>
+</div>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍 <br> <br/> </h2> 
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/imkool47/imkool47/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
