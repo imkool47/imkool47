@@ -44,7 +44,7 @@
 <h2 align="center">⚡ Stats ⚡<br> <br/> </h2>
 <br>
 <div align=center>
-  <img width=352  src="https://github-readme-stats.vercel.app/api?username=imkool47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="imkool47" />
+  <img width=412  src="https://github-readme-stats.vercel.app/api?username=imkool47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="imkool47" />
 
   <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkool47&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="imkool47" />
 
