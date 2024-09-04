@@ -1,16 +1,16 @@
-<h1> <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Banner" align="center">
+<h1> <img src="./assets/header-animation.gif" alt="Banner" align="center">
 </h1>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=imkool47&label=Profile%20views&color=0e75b6&style=flat" alt="imkool47" /> </p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Bold&size=35&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Mukul" />
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Hi+There!+%F0%9F%91%8B;I'm+Mukul" alt="Title GitHub Readme" />
 </h1>
-<h3 align="center">I love everything about the exciting field of computer science. I'm a computer science student currently, and I really enjoy learning about programming, cybersecurity, hacking and playing games.</h3>
+<h3 align="center">I love everything about the exciting field of computer science. As a student, I’m always learning, from programming and cybersecurity to cloud computing. When I'm not coding, I'm either gaming or lost in music.</h3>
 <hr/>
 
 <div align="center">
- 🌱 I’m currently learning <strong>Cloud Computing, AWS, Docker</strong>
+ 🌱 I’m currently learning <strong>DevOps, Docker, Kubernetes and Jenkins</strong>
 </div>
 
 <h1> </h1>
