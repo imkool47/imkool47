@@ -4,7 +4,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=imkool47&label=Profile%20views&color=0e75b6&style=flat" alt="imkool47" /> </p>
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Hi+There!+%F0%9F%91%8B;I'm+Mukul" alt="Title GitHub Readme" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Hi+There!+%F0%9F%91%8B+I'm+Mukul" alt="Title GitHub Readme" />
 </h1>
 <h3 align="center">I love everything about the exciting field of computer science. As a student, I’m always learning, from programming and cybersecurity to cloud computing. When I'm not coding, I'm either gaming or lost in music.</h3>
 <hr/>
@@ -32,11 +32,17 @@
 
 <h2 align="center">Languages and Tools <br> <br/></h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,bootstrap,js,php,mysql,dotnet,cs,nodejs,react,kotlin,matlab,eclipse,androidstudio,figma,git,github,aws,kubernetes,docker,azure,gcp,heroku,cloudflare,netlify,vim,notion,arduino,linux,debian,kali,arch,ubuntu,mint,bash,powershell,opencv,py,pycharm,pytorch,vscode,ps" />
-  </a>
-</p>
+| **Programming Languages** | **Web Development** | **Development Environments** | **Tools** | **Cloud Platforms** | **Operating Systems** | **Miscellaneous** |
+|:-------------------------:|:-------------------:|:----------------------------:|:---------:|:-------------------:|:---------------------:|:-----------------:|
+| ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) | ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![Git](https://skillicons.dev/icons?i=git) | ![AWS](https://skillicons.dev/icons?i=aws) | ![Linux](https://skillicons.dev/icons?i=linux) | ![Notion](https://skillicons.dev/icons?i=notion) |
+| ![C++](https://skillicons.dev/icons?i=cpp) | ![CSS](https://skillicons.dev/icons?i=css) | ![Android Studio](https://skillicons.dev/icons?i=androidstudio) | ![GitHub](https://skillicons.dev/icons?i=github) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![Debian](https://skillicons.dev/icons?i=debian) | ![Arduino](https://skillicons.dev/icons?i=arduino) |
+| ![Java](https://skillicons.dev/icons?i=java) | ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) | ![Eclipse](https://skillicons.dev/icons?i=eclipse) | ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Docker](https://skillicons.dev/icons?i=docker) | ![Kali Linux](https://skillicons.dev/icons?i=kali) | ![Vim](https://skillicons.dev/icons?i=vim) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) | ![PHP](https://skillicons.dev/icons?i=php) | ![MATLAB](https://skillicons.dev/icons?i=matlab) | ![PyCharm](https://skillicons.dev/icons?i=pycharm) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Arch Linux](https://skillicons.dev/icons?i=arch) | ![Powershell](https://skillicons.dev/icons?i=powershell) |
+| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![React](https://skillicons.dev/icons?i=react) | ![Figma](https://skillicons.dev/icons?i=figma) | ![PyTorch](https://skillicons.dev/icons?i=pytorch) | ![GCP](https://skillicons.dev/icons?i=gcp) | ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![OpenCV](https://skillicons.dev/icons?i=opencv) |
+| ![C#](https://skillicons.dev/icons?i=cs) | ![Node.js](https://skillicons.dev/icons?i=nodejs) |  | ![Photoshop](https://skillicons.dev/icons?i=ps) | ![Heroku](https://skillicons.dev/icons?i=heroku) | ![Mint](https://skillicons.dev/icons?i=mint) |  |
+| ![.NET](https://skillicons.dev/icons?i=dotnet) |  |  |  | ![Cloudflare](https://skillicons.dev/icons?i=cloudflare) |  |  |
+|  |  |  |  | ![Netlify](https://skillicons.dev/icons?i=netlify) |  |  |
+
 
 <br/>
 <hr/>
